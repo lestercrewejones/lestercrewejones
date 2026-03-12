@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate full stack, but lrimarelt back-end dev</h3>
+<h3 align="center">A passionate full stack, but back-end preffering dev</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
